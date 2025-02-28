@@ -1,1 +1,2 @@
 # LefNet
+This is the official implementation of the paper "LefNet: Lightweight Explainable Fast-Trained Network for Wheat Growth Prediction and Mechanism Resolving". The code is based on the PyTorch framework and is tested on the agriculture dataset.
